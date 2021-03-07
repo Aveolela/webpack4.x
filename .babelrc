@@ -1,0 +1,4 @@
+{
+    "presets": ["@babel/preset-env"],   // 包含常用的一些 es6/7 的语法
+    "plugins": []                       // 用来扩展
+}
